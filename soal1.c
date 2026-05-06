@@ -3,7 +3,7 @@
  *   Hari dan Tanggal    : Rabu, 6 Mei 2026
  *   Nama (NIM)          : Fayyadh Ramadhan (13224077)
  *   Nama File           : soal1.c
- *   Deskripsi           : 
+ *   Deskripsi           : Membuat Data Antrian Pasien dan Durasi Tunggunya menggunakan Queue, lalu mencetak Urutan Pasien dan Durasi Tunggu Seluruh Pasien.
  */
 
 #include <stdio.h>
